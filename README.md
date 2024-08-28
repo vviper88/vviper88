@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python and cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some projects.
-- 📫 How to reach me: email is jayw342@yahoo.com
 - 😄 Pronouns: he/him/his
 
 <!---
