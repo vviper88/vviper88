@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @vviper88
-- 👀 I’m interested in Python and cybersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some projects.
-- 😄 Pronouns: he/him/his
+hello
 
 <!---
 vviper88/vviper88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
